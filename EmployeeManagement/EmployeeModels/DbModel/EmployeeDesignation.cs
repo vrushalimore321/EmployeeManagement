@@ -10,6 +10,6 @@ namespace EmployeeModels.DbModel
     {
         public int DesignationId { get; set; }
         public string Designation { get; set; }
-//---------------------------------------------------------
+
     }
 }
