@@ -1,0 +1,11 @@
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\bin\Debug\net8.0\EmployeeModels.deps.json
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\bin\Debug\net8.0\EmployeeModels.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\bin\Debug\net8.0\EmployeeModels.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.AssemblyInfoInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.AssemblyInfo.cs
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.csproj.CoreCompileInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\refint\EmployeeModels.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\EmployeeModels.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeModels\obj\Debug\net8.0\ref\EmployeeModels.dll

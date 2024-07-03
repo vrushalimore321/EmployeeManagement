@@ -1,0 +1,17 @@
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeServices.deps.json
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeServices.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeServices.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeModels.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeRepositorys.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeModels.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\bin\Debug\net8.0\EmployeeRepositorys.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.csproj.AssemblyReference.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.AssemblyInfoInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.AssemblyInfo.cs
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.csproj.CoreCompileInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\Employee.DDEE3630.Up2Date
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\refint\EmployeeServices.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\EmployeeServices.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeServices\obj\Debug\net8.0\ref\EmployeeServices.dll

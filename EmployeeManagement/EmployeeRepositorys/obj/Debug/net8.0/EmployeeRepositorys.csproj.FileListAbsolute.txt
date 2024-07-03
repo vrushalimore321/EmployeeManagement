@@ -1,0 +1,15 @@
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\bin\Debug\net8.0\EmployeeRepositorys.deps.json
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\bin\Debug\net8.0\EmployeeRepositorys.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\bin\Debug\net8.0\EmployeeRepositorys.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\bin\Debug\net8.0\EmployeeModels.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\bin\Debug\net8.0\EmployeeModels.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.csproj.AssemblyReference.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.AssemblyInfoInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.AssemblyInfo.cs
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.csproj.CoreCompileInputs.cache
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\Employee.1468F6CE.Up2Date
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\refint\EmployeeRepositorys.dll
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\EmployeeRepositorys.pdb
+C:\Users\Nirav\source\repos\EmployeeManagement\EmployeeRepositorys\obj\Debug\net8.0\ref\EmployeeRepositorys.dll
